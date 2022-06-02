@@ -10,7 +10,7 @@ resources:
 
 images:
 - name: 204415123180.dkr.ecr.us-east-1.amazonaws.com/guestbook
-  newTag: c8dec5eecadf2705fd44629f0aef2cee86ad7a55
+  newTag: 6352aa4d57e8e1907f643e0f5b8fa1a574daf716
 - name: 457472006214.dkr.ecr.us-west-1.amazonaws.com/guestbook
   newTag: d6cbdc0df33ef5f5dce803931e4d89031865223b
 - name: frontend
